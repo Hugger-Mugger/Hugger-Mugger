@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Hugger-Mugger
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Reverse Enggineering
+- 👀 I’m interested in Cybersecurity particularly in Blue Teaming Operation
+- 🌱 I’m currently preparing for SC-200 certification.
 - 💞️ I’m looking to collaborate on Security Research
 - 📫 How to reach me : https://www.instagram.com/kumar_abhii2156/
-- 
+- You can also reach via email at: abhijeetkumar20011204@outlook.com
 
 <!---
 Hugger-Mugger/Hugger-Mugger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
